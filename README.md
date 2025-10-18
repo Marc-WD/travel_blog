@@ -22,6 +22,6 @@
    ```bash
    npm run dev
 
-#You should have two terminals running —
+You should have two terminals running —
 one for the backend and one for the frontend.
 
